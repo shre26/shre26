@@ -4,7 +4,7 @@
 
 ## 🔭 I'm currently working on
 
-RazorPay Clone Project
+QuickNotes - React Project
 
 ## 🌱 I'm currently learning
 
