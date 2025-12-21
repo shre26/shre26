@@ -4,7 +4,7 @@
 
 ## 🔭 I'm currently working on
 
-QuickNotes - React Project
+Student Performance Predictor - ML Project (Python)
 
 ## 🌱 I'm currently learning
 
