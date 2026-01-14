@@ -4,7 +4,7 @@
 
 ## 🔭 I'm currently working on
 
-Student Performance Predictor - ML Project (Python)
+Delivera - Food Delivery Web Application (MERN Stack)
 
 ## 🌱 I'm currently learning
 
