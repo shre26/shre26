@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shreya Gaonkar
+# Hi, I'm Shreya Gaonkar
 
 **Aspiring full-stack developer and data science learner, focused on building real projects and growing my technical skills.**
 
