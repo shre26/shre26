@@ -1,10 +1,10 @@
 # Hi, I'm Shreya Gaonkar
 
-**Aspiring full-stack developer and data science learner, focused on building real projects and growing my technical skills.**
+**Aspiring data science learner, focused on building real projects and growing my technical skills.**
 
 ## 🔭 I'm currently working on
 
-Delivera - Food Delivery Web Application (MERN Stack)
+Titanic Survival Prediction (ML)
 
 ## 🌱 I'm currently learning
 
