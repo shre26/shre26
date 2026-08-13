@@ -4,7 +4,7 @@
 
 ## 🔭 I'm currently working on
 
-Titanic Survival Prediction (ML)
+Book Recommendation System
 
 ## 🌱 I'm currently learning
 
